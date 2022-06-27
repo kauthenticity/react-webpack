@@ -1,2 +1,2 @@
 # react-webpack
-project created with webpack and babel
+react project created with webpack and babel
